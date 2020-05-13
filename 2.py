@@ -15,10 +15,11 @@ if a>b:
         print(a,"is greater");
 elif b>a:
     if b>d:
-        print(b,"id greater");
+        print(b,"is greater");
 elif d>a:
     if d>b:
         print(d,"is greater");
+print("hii")
         
     
 
